@@ -1,0 +1,7 @@
+config.json
+运行记录/
+备份/
+*.bak-*
+*.tmp
+runtime/node.exe
+*.zip
